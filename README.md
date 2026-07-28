@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rishusingh645/Leetcode_questions/tree/master/0067-add-binary) |
 | [0680-valid-palindrome-ii](https://github.com/rishusingh645/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -47,5 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rishusingh645/Leetcode_questions/tree/master/0067-add-binary) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishusingh645/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rishusingh645/Leetcode_questions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rishusingh645/Leetcode_questions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
