@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishusingh645/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishusingh645/Leetcode_questions/tree/master/0067-add-binary) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
