@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/rishusingh645/Leetcode_questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/rishusingh645/Leetcode_questions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/rishusingh645/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishusingh645/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rishusingh645/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/rishusingh645/Leetcode_questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/rishusingh645/Leetcode_questions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/rishusingh645/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
