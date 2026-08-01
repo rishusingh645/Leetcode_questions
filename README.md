@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rishusingh645/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/rishusingh645/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/rishusingh645/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishusingh645/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rishusingh645/Leetcode_questions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/rishusingh645/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/rishusingh645/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/rishusingh645/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishusingh645/Leetcode_questions/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/rishusingh645/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishusingh645/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishusingh645/Leetcode_questions/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/rishusingh645/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
