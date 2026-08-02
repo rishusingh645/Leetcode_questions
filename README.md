@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishusingh645/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/rishusingh645/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rishusingh645/Leetcode_questions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/0189-rotate-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/rishusingh645/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
