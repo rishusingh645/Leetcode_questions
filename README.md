@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rishusingh645/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishusingh645/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0877-stone-game](https://github.com/rishusingh645/Leetcode_questions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/rishusingh645/Leetcode_questions/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/rishusingh645/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishusingh645/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/rishusingh645/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/rishusingh645/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/rishusingh645/Leetcode_questions/tree/master/0881-boats-to-save-people) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rishusingh645/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishusingh645/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishusingh645/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/rishusingh645/Leetcode_questions/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishusingh645/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishusingh645/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/rishusingh645/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/rishusingh645/Leetcode_questions/tree/master/0881-boats-to-save-people) |
 ## Simulation
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishusingh645/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/rishusingh645/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 ## Interactive
 |  |
@@ -118,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/rishusingh645/Leetcode_questions/tree/master/0881-boats-to-save-people) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishusingh645/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
