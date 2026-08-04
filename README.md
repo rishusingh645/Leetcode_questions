@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/rishusingh645/Leetcode_questions/tree/master/0877-stone-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/rishusingh645/Leetcode_questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishusingh645/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
