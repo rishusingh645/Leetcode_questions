@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rishusingh645/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/rishusingh645/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishusingh645/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0877-stone-game](https://github.com/rishusingh645/Leetcode_questions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/rishusingh645/Leetcode_questions/tree/master/0881-boats-to-save-people) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/rishusingh645/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/rishusingh645/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishusingh645/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/rishusingh645/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/rishusingh645/Leetcode_questions/tree/master/0844-backspace-string-compare) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rishusingh645/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishusingh645/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/rishusingh645/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishusingh645/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/rishusingh645/Leetcode_questions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rishusingh645/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rishusingh645/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishusingh645/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/rishusingh645/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/rishusingh645/Leetcode_questions/tree/master/0881-boats-to-save-people) |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rishusingh645/Leetcode_questions/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/rishusingh645/Leetcode_questions/tree/master/0455-assign-cookies) |
 ## Timsort
 |  |
 | ------- |
