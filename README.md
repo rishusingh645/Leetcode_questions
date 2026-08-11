@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/rishusingh645/Leetcode_questions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/rishusingh645/Leetcode_questions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/rishusingh645/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rishusingh645/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/rishusingh645/Leetcode_questions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/rishusingh645/Leetcode_questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rishusingh645/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/rishusingh645/Leetcode_questions/tree/master/0344-reverse-string) |
