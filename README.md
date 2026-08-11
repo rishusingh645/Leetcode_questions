@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/rishusingh645/Leetcode_questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rishusingh645/Leetcode_questions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/rishusingh645/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rishusingh645/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rishusingh645/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/rishusingh645/Leetcode_questions/tree/master/0374-guess-number-higher-or-lower) |
 ## Sorting
