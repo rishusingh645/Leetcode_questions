@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/rishusingh645/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/rishusingh645/Leetcode_questions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rishusingh645/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
+| [2000-reverse-prefix-of-word](https://github.com/rishusingh645/Leetcode_questions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishusingh645/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/rishusingh645/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/rishusingh645/Leetcode_questions/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/rishusingh645/Leetcode_questions/tree/master/0844-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/rishusingh645/Leetcode_questions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishusingh645/Leetcode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishusingh645/Leetcode_questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/rishusingh645/Leetcode_questions/tree/master/0844-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/rishusingh645/Leetcode_questions/tree/master/2000-reverse-prefix-of-word) |
 ## Interactive
 |  |
 | ------- |
